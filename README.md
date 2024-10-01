@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Akash Verma</h1>
-<h3 align="center">A passionate Full Stack Developer</h3>
+<h3 align="center">A Full Stack Developer</h3>
 
 - 🔭 I’m currently working as a **Software Development Engineer at Hydroxide**
 - 🌱 I’m currently learning **React Native, Next.js, and GraphQL**
