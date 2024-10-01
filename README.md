@@ -1,26 +1,71 @@
-<h1 align="center">Hi 👋, I'm Akash Verma</h1>
-<h3 align="center">A passionate Full Stack developer</h3>
+<h1 align="center">Hi 👋, I'm Akash Verma</h1> <h3 align="center">A passionate Full Stack Developer</h3> <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"> <img src="https://github-profile-trophy.vercel.app/?username=akash-1712" alt="akash-1712" /> </a> </p>
+🔭 I’m currently working as a Software Development Engineer at Hydroxide
+🌱 I’m currently learning React Native, Next.js, and GraphQL
+📫 How to reach me: akashbansalab01@gmail.com
+📄 Check out my resume: My Resume
+<h3 align="left">Connect with me:</h3> <p align="left"> <a href="https://codepen.io/vermaakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="codepen" height="30" width="40" /></a> <a href="https://www.linkedin.com/in/akash-verma-5398a220b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="linkedin" height="30" width="40" /></a> <a href="https://www.hackerrank.com/akashvermaab01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="hackerrank" height="30" width="40" /></a> <a href="https://leetcode.com/u/akashvermaab01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="leetcode" height="30" width="40" /></a> </p>
+<h3 align="left">Experience:</h3>
+Software Development Engineer, Hydroxide (July 2023 - Current)
+Designed and developed a multi-tenant real estate SaaS website, creating scalable front-end and back-end systems for customizable web applications for real estate agents.
+Built a flexible template selection system, improving user interaction and satisfaction.
+Reduced website setup time by 60% with an intuitive design and automated workflows.
+Teaching Assistant, Coding Studio (April 2022 - August 2022)
+Debugged and optimized over 550+ programming problems.
+Conducted one-on-one sessions, helping students improve their coding skills.
+Achieved an average rating of 4.8/5 based on student feedback.
+<h3 align="left">Education:</h3>
+B. Tech, Netaji Subhas University of Technology, Delhi (2019-2023)
+7.46 CGPA
+Class XII, Golden Valley Public School, Delhi (2017)
+88.60%
+Class X, Golden Valley Public School, Delhi (2015)
+8.40 CGPA
+<h3 align="left">Projects:</h3>
+Wepediatrics - Connecting Doctors and Patients Seamlessly (May 2024 – August 2024)
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=akash-1712" alt="akash-1712" /></a> </p>
+Built a website and app using React/React Native and Node.js for over 1,000 subscribers.
+Features include appointment scheduling, messaging, and video calling, improving response time and healthcare delivery by 30%.
+Integrated PhonePe for monthly subscription payments, reducing payment processing time by 30%.
+Deepak Flute (November 2023 – February 2024)
 
-- 🔭 I’m currently work as a Software Development Engineer **Hydroxide**
+Developed a full-stack e-commerce website with React, Node.js, MongoDB, deployed on Vercel.
+Integrated secure UPI payments via QroPay, enhancing checkout efficiency and user trust.
+Automated real-time email notifications for payments and order confirmations.
+Other Projects
 
-- 🌱 I’m currently learning **React native, Next.js and Graphql**
+To-Do Activity (December 2022)
+Interactive Rating Component (October 2022)
+Advice Generator (September 2022)
+Blog Website (July 2022)
+<h3 align="left">Achievements:</h3>
+Secured AIR 1147 in the Innovate India Coding Championship, ranking in the top 1%.
+Achieved AIR 66 in the Code for Freedom Contest by Coding Studio.
+Accumulated over 12,000 EXP on Code Studio.
+Scored 96/100 in Principles of Management from NPTEL, ranking in the top 1%.
+<h3 align="left">Skills:</h3>
+Programming Languages
+C++, C#, JavaScript, TypeScript
 
-- 📫 How to reach me **akashbansalab01@gmail.com**
+Frontend Development
+React, HTML, CSS, SCSS/SASS, TailwindCSS, MaterializeCSS
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1vaFxNBSm9jh6L8wCJMPUYiqmmICWQD7I/view?usp=sharing](https://drive.google.com/file/d/1vaFxNBSm9jh6L8wCJMPUYiqmmICWQD7I/view?usp=sharing)
+Backend Development
+Node.js, Express.js, ASP.NET, Blazor
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/https://codepen.io/vermaakash" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="https://codepen.io/vermaakash" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/akash-verma-5398a220b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/akash-verma-5398a220b" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/https://www.hackerrank.com/profile/akashvermaab01" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="https://www.hackerrank.com/profile/akashvermaab01" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/akashvermaab01/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/akashvermaab01/" height="30" width="40" /></a>
-</p>
+Mobile App Development
+React Native
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/> </a> <a href="https://babeljs.io/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/babeljs/babeljs-icon.svg" alt="babel" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.chartjs.org" target="_blank" rel="noreferrer"> <img src="https://www.chartjs.org/media/logo-title.svg" alt="chartjs" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://graphql.org" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/graphql/graphql-icon.svg" alt="graphql" width="40" height="40"/> </a> <a href="https://heroku.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/heroku/heroku-icon.svg" alt="heroku" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://materializecss.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/prplx/svg-logos/5585531d45d294869c4eaab4d7cf2e9c167710a9/svg/materialize.svg" alt="materialize" width="40" height="40"/> </a> <a href="https://www.mathworks.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/21/Matlab_Logo.png" alt="matlab" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://pugjs.org" target="_blank" rel="noreferrer"> <img src="https://cdn.worldvectorlogo.com/logos/pug.svg" alt="pug" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank" rel="noreferrer"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://redux.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redux/redux-original.svg" alt="redux" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> <a href="https://unity.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" alt="unity" width="40" height="40"/> </a> <a href="https://webpack.js.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/d00d0969292a6569d45b06d3f350f463a0107b0d/icons/webpack/webpack-original-wordmark.svg" alt="webpack" width="40" height="40"/> </a> </p>
+Databases
+MongoDB, SQL, RavenDB
+
+Services
+Vercel, Heroku, Railway, Render
+
+Frameworks
+ASP.NET
+
+Game Engine
+Unity
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-1712&show_icons=true&locale=en&layout=compact" alt="akash-1712" /></p>
-
+Feel free to reach out to me via email or connect with me on LinkedIn or any of my other platforms!
