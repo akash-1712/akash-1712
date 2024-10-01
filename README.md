@@ -66,15 +66,30 @@ customization of websites and saving 60% of the setup time through intuitive des
 
 <h3 align="left">Projects:</h3>
 
-1. **Wepediatrics - Connecting Doctors and Patients Seamlessly** (May 2024 – August 2024)  
-   - Developed a full-stack solution using React, Node.js, and MongoDB.
-   - Integrated a video call feature and a secure messaging system.
-   - Implemented monthly subscription payments via PhonePe, reducing payment issues by 30%.
+1. **Wepediatrics - Connecting Doctors and Patients Seamlessly** (May 2024 – August 2024)  LINK[https://www.wepediatrics.com/]
+   - **Created a website and app** using React/React Native and Node.js, enhancing patient-doctor interaction for over 1,000 subscribers by
+features such as scheduling of appointments, direct messaging, and video calling.
+   - **Designed and implemented customized patient intake flow** that captures critical health information (weight, temperature, symptoms)
+before appointments and automatically sends detailed reports to doctors that decrease the onboarding of patients by 40%.
+   - **Built secure, real-time communication channels** for over 100 daily active users, including notifications, messaging, and video calls, to
+increase response time by 30% and quality patient care.
+   - **Integrated a monthly subscription payment system using PhonePe**, enabling easy payment management of continuing healthcare
+services for patients and enhancing the user experience while processing time was reduced by 30%.
+   - **Enhanced patient engagement and streamlined healthcare delivery**, integrating features like appointment reminders and video call
+notifications reduced missed appointments by 20% and patient satisfaction by 15%.
 
-2. **Deepak Flute** (November 2023 – February 2024)  
-   - Built an e-commerce site using React.js and Node.js.
-   - Integrated UPI payments with QroPay, improving checkout efficiency.
-   - Automated real-time notifications for orders and payments.
+
+2. **Deepak Flute** (November 2023 – February 2024)  LINK[https://www.deepakflute.com/]
+   - Developed the complete full-stack e-commerce website by using React, Node.js, and MongoDB and deployed the website to Vercel
+for online shopping.
+   - Provided dual authentication methods, including email-password and Google sign-up, which increased the ease and safety of users
+and hence increased user registrations by 40%.
+   - Integrated QroPay (UPI Payment) gateway, ensuring safe transaction while engaging in seamless payment transactions, improved
+checkout efficiency and user trust.
+   - Engineered an automated email notification system, sending real-time payment confirmation to user and vendor, improving
+communication and transaction transparency.
+   - Used responsive design principles, to make the website suitable and optimized for use on different devices, improving accessibility
+and usability for more than 80% of mobile users improved.
 
 ---
 
