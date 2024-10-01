@@ -1,8 +1,3 @@
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=akash-1712&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-1712&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
 <h1 align="center">Hi 👋, I'm Akash Verma</h1>
 <h3 align="center">A passionate Full Stack Developer</h3>
 
@@ -105,7 +100,7 @@
 - **Class X, Golden Valley Public School, Delhi** (2015)  
    8.40 CGPA
 
-  ***
+---
 
 <h3 align="left">Achievements:</h3>
 
@@ -114,6 +109,12 @@
 - Accumulated over **12,000 EXP** on Code Studio.
 - Scored **96/100** in Principles of Management from NPTEL.
 
-  ***
+---
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=akash-1712&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+---
 
   <img src="https://raw.githubusercontent.com/akash-1712/akash-1712/output/snake.svg" alt="Snake animation" />
