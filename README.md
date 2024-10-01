@@ -40,17 +40,6 @@ customization of websites and saving 60% of the setup time through intuitive des
 
 ---
 
-<h3 align="left">Education:</h3>
-
-- **B.Tech, Netaji Subhas University of Technology, Delhi** (2019-2023)  
-   7.46 CGPA
-- **Class XII, Golden Valley Public School, Delhi** (2017)  
-   88.60%
-- **Class X, Golden Valley Public School, Delhi** (2015)  
-   8.40 CGPA
-
----
-
 <h3 align="left">Skills:</h3>
 <p align="left">Programming Languages</p>
 <p align="left">
@@ -88,6 +77,17 @@ customization of websites and saving 60% of the setup time through intuitive des
    - Automated real-time notifications for orders and payments.
 
 ---
+
+<h3 align="left">Education:</h3>
+
+- **B.Tech, Netaji Subhas University of Technology, Delhi** (2019-2023)  
+   7.46 CGPA
+- **Class XII, Golden Valley Public School, Delhi** (2017)  
+   88.60%
+- **Class X, Golden Valley Public School, Delhi** (2015)  
+   8.40 CGPA
+
+  ---
 
 <h3 align="left">Achievements:</h3>
 
