@@ -69,7 +69,7 @@ customization of websites and saving 60% of the setup time through intuitive des
 
 <p align="left">Software And Tools</p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=git,github,DBMS,Unity,heroku,npm,postman,vercel,visualstudio,vite,vscode,webpack" alt="git, github, DBMS, Unity, heroku, npm, postman, vercel, visualstudio, vite, vscode, webpack" />
+  <img src="https://skillicons.dev/icons?i=git,github,unity,heroku,npm,postman,vercel,visualstudio,vite,vscode,webpack" alt="git, github, DBMS, Unity, heroku, npm, postman, vercel, visualstudio, vite, vscode, webpack" />
 </p>
 
 
