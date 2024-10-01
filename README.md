@@ -22,23 +22,27 @@
 <h3 align="left">Experience:</h3>
 
 1. **Software Development Engineer, Hydroxide** (July 2023 - Present)
-   - Designed and developed a multi-tenant real estate SaaS platform with customizable templates.
-   - Reduced website setup time by 60% through an automated deployment system.
-   - Improved UI/UX by integrating React.js and Node.js for a seamless user experience.
-   - Built APIs for real estate agents to dynamically manage property listings.
+   - **Designed and developed a multi-tenant real estate SaaS website**, creating the frontend and backend systems to enable scalable and
+custom web applications for real estate agents.
+   - **Building a flexible selection system of templates** in which real estate agents enhance their online presence by selecting from a defined
+choice of templates available to customize their websites, enhance user interaction, and client satisfaction.
+   - **Implemented a user-friendly interface for feature selection**, allowing agents to preview and personalize their websites with wideranging business-specific options to enhance the overall user experience.
+   - **Streamlined the onboarding process for real estate agents**, much smoother traction by eliminating complexity in selection and
+customization of websites and saving 60% of the setup time through intuitive design and automated workflows.
 
 <h3 align="left">Internship Experience:</h3>
 
 1. **Teaching Assistant, Coding Studio** (April 2022 - August 2022)  
-   - Debugged over 550+ coding problems in C++ and JavaScript.
-   - Provided one-on-one mentoring to students, improving their coding performance by 30%.
-   - Received an average student rating of 4.8/5 for delivering efficient code reviews.
+   - Conduct doubt sessions, where over 550+ programming problems have been debugged.
+   - Assisted in debugging and optimizing code, helped to improve students understanding as well as the overall performance of the code.
+   - Conduct one-on-one sessions with students with students who failed to understand their assignments.
+   - Maintained an excellent overall rating of 4.8 out of 5.0 based on student feedback and reviews.
 
 ---
 
 <h3 align="left">Education:</h3>
 
-- **B. Tech, Netaji Subhas University of Technology, Delhi** (2019-2023)  
+- **B.Tech, Netaji Subhas University of Technology, Delhi** (2019-2023)  
    7.46 CGPA
 - **Class XII, Golden Valley Public School, Delhi** (2017)  
    88.60%
@@ -48,8 +52,14 @@
 ---
 
 <h3 align="left">Skills:</h3>
+<p align="left">Programming Languages</p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,nodejs,express,mongodb,js,ts,html,css,tailwind,unity,csharp,vercel,heroku,github" alt="Skills" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c,c++,c#" alt="JavaScript,TypeScript,C,C++,C#" />
+</p>
+---
+<p align="left">Web Development</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind" alt="JavaScript,TypeScript,C,C++,C#" />
 </p>
 
 ---
