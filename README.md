@@ -54,13 +54,24 @@ customization of websites and saving 60% of the setup time through intuitive des
 <h3 align="left">Skills:</h3>
 <p align="left">Programming Languages</p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,c,c++,c#" alt="JavaScript,TypeScript,C,C++,C#" />
+  <img src="https://skillicons.dev/icons?i=js,ts,c,cs,cpp" alt="JavaScript,TypeScript,C,C++,C#" />
 </p>
----
+
 <p align="left">Web Development</p>
 <p align="left">
-  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind" alt="JavaScript,TypeScript,C,C++,C#" />
+  <img src="https://skillicons.dev/icons?i=react,redux,nodejs,express,tailwind, pug ,html,css,sass,dotnet,bootstrap,babel" alt="react,redux,nodejs,express,tailwind, pug ,html,css,sass,dotnet,bootstrap,babel" />
 </p>
+
+<p align="left">Databases</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb, mysql, firebase" alt="mongodb, mysql, firebase" />
+</p>
+
+<p align="left">Software And Tools</p>
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=git, github, DBMS, Unity, heroku, npm, postman, vercel, visualstudio, vite, vscode, webpack" alt="mongodb, mysql" />
+</p>
+
 
 ---
 
