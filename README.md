@@ -21,6 +21,7 @@
 <h3 align="left">Experience:</h3>
 
 1. **Software Development Engineer, Hydroxide** (July 2023 - Present)
+
    - **Designed and developed a multi-tenant real estate SaaS website**, creating the frontend and backend systems to enable scalable and
      custom web applications for real estate agents.
    - **Building a flexible selection system of templates** in which real estate agents enhance their online presence by selecting from a defined
@@ -29,9 +30,7 @@
    - **Streamlined the onboarding process for real estate agents**, much smoother traction by eliminating complexity in selection and
      customization of websites and saving 60% of the setup time through intuitive design and automated workflows.
 
-<h3 align="left">Internship Experience:</h3>
-
-1. **Teaching Assistant, Coding Studio** (April 2022 - August 2022)
+2. **Teaching Assistant, Coding Studio** (April 2022 - August 2022)
    - Conduct doubt sessions, where over 550+ programming problems have been debugged.
    - Assisted in debugging and optimizing code, helped to improve students understanding as well as the overall performance of the code.
    - Conduct one-on-one sessions with students with students who failed to understand their assignments.
@@ -117,4 +116,8 @@
 
 ---
 
-  <img src="https://raw.githubusercontent.com/akash-1712/akash-1712/output/snake.svg" alt="Snake animation" />
+  <picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
