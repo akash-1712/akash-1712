@@ -110,3 +110,7 @@ and usability for more than 80% of mobile users improved.
 - Secured **AIR 66** in Code for Freedom Contest by Coding Studio.
 - Accumulated over **12,000 EXP** on Code Studio.
 - Scored **96/100** in Principles of Management from NPTEL.
+
+  ---
+
+  <img src="https://raw.githubusercontent.com/akash-1712/akash-1712/output/snake.svg" alt="Snake animation" />
